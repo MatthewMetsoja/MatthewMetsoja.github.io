@@ -1,1 +1,0 @@
-<?php header("location: https://matthewmetsoja.com");
