@@ -40,6 +40,37 @@
         </div>
     </div>
     
+    <div class="container">
+       
+        <div class="row">
+            
+            <div class="col-md-6 col-lg-4 mb-3">
+                <a class="portfolio-item d-block mx-auto" data-toggle="modal" data-target="#modal_1">
+                  <div>
+                      <img id="cms_front_cover" class="img-fluid" src="img/cms_frontcover.png">
+                  </div>
+                </a>
+            </div>
+            
+            <div class="col-md-6 col-lg-4 mb-3">
+                <a class="portfolio-item d-block mx-auto" data-toggle="modal" data-target="#modal_2">
+                  <div>
+                      <img id="clothing_front_cover" class="img-fluid" src="img/clothing_frontcover.jpg">
+                  </div>
+                </a>
+            </div>
+
+            <div class="col-md-6 col-lg-4 mb-3">
+                <a class="portfolio-item d-block mx-auto" data-toggle="modal" data-target="#modal_3">
+                  <div>
+                      <img id="takeaway_front_cover" class="img-fluid" src="img/takeaway_frontcover.jpg" alt="">
+                  </div>
+                </a>
+            </div>
+
+        </div>
+       
+    </div>
 
         <footer class="container-fluid">
                 <h1 class="py-2 text-center">Footer <i class="fas fa-gitter"></i></h1>
@@ -49,44 +80,50 @@
 </body>
 </html>
 
-body{
-    /* min-height: 1000px; */
-    background-color: black;
-}
 
-h1,h2,h3,h4,h5,h6 {
-    font-family: 'Mansalva', cursive;
-}
+style
+{
 
-.vibe{
-    font-family: 'Vibes', cursive;
-    font-weight: 800;
-}
+    body{
+        /* min-height: 1000px; */
+        background-color: black;
+    }
 
-.work{
-   font-family: 'Source Code Pro', monospace;
-   font-size: 1.3em;
-   text-align: center;
-}
+    h1,h2,h3,h4,h5,h6 {
+        font-family: 'Mansalva', cursive;
+    }
 
-.intro{
-    border-bottom: 10px solid #ffbf00;
-    color: white;
-   
-}
+    .vibe{
+        font-family: 'Vibes', cursive;
+        font-weight: 800;
+    }
 
-.jumbotron-fluid{
-    background-color: black;
-    color: #ffbf00;
-    border-top: 10px solid #ffbf00;
-    border-bottom: 10px solid #ffbf00
-}
+    .work{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.3em;
+    text-align: center;
+    }
 
-footer{
-    position: relative;
-    background-color: black;
-    color: white;
-    border-top: 10px solid #ffbf00;
-    border-bottom: 10px solid #ffbf00;
-    bottom:  -30vh
+    .intro{
+        border-bottom: 10px solid #ffbf00;
+        color: white;
+    
+    }
+
+    .jumbotron-fluid{
+        background-color: black;
+        color: #ffbf00;
+        border-top: 10px solid #ffbf00;
+        border-bottom: 10px solid #ffbf00
+    }
+
+    footer{
+        position: relative;
+        background-color: black;
+        color: white;
+        border-top: 10px solid #ffbf00;
+        border-bottom: 10px solid #ffbf00;
+        bottom:  -30vh
+    }
+
 }
