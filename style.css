@@ -1,0 +1,41 @@
+body{
+    /* min-height: 1000px; */
+    background-color: black;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Mansalva', cursive;
+}
+
+.vibe{
+    font-family: 'Vibes', cursive;
+    font-weight: 800;
+}
+
+.work{
+   font-family: 'Source Code Pro', monospace;
+   font-size: 1.3em;
+   text-align: center;
+}
+
+.intro{
+    border-bottom: 10px solid #ffbf00;
+    color: white;
+   
+}
+
+.jumbotron-fluid{
+    background-color: black;
+    color: #ffbf00;
+    border-top: 10px solid #ffbf00;
+    border-bottom: 10px solid #ffbf00
+}
+
+footer{
+    position: relative;
+    background-color: black;
+    color: white;
+    border-top: 10px solid #ffbf00;
+    border-bottom: 10px solid #ffbf00;
+    bottom:  -30vh
+}
