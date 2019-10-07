@@ -45,6 +45,6 @@
                 <h1 class="py-2 text-center">Footer <i class="fas fa-gitter"></i></h1>
         </footer>
     </blockquote>
-    <script src="script.js"></script>
+    <!-- <script src="script.js"></script> -->
 </body>
 </html>
