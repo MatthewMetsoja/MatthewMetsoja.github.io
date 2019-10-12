@@ -63,7 +63,7 @@
                                             
                                             <div class="text-center vibe">
                                                 <h4>
-                                                    <a class="git_text" href="https://github.com/MatthewMetsoja/cms_blog" target="_blank">Click here to view the code</a>
+                                                    <a class="git_text" href="https://matthewmetsoja.github.io/cms_blog" target="_blank">Click here to view the code</a>
                                                 </h4> 
                                             </div> 
                                         </div>
@@ -78,7 +78,7 @@
 
                                             <div class="text-center vibe">
                                                     <h4>
-                                                        <a class="git_text" target="_blank" href="https://github.com/MatthewMetsoja/matthews_menswear">Click here to view the code</a>
+                                                        <a class="git_text" target="_blank" href="https://matthewmetsoja.github.io/matthews_menswear">Click here to view the code</a>
                                                     </h4> 
                                             </div> 
                                         </div>
@@ -92,7 +92,7 @@
 
                                             <div class="vibe text-center">
                                                 <h4>
-                                                    <a  class="git_text"target="_blank" href="https://github.com/MatthewMetsoja/matteos_takeaway">Click here to view the code</a>
+                                                    <a  class="git_text"target="_blank" href="https://matthewmetsoja.github.io/matteos_takeaway">Click here to view the code</a>
                                                 </h4> 
                                             </div> 
                                         </div>
