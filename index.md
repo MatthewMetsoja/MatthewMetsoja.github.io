@@ -108,7 +108,7 @@
             <div class="row">
                     <div class="col-sm-2"></div>
                     <div class="col-sm-8 py-4">
-                            <p class="work pt-4">Please note that this is not my 'Real' portfolio which can be viewed online @ <a href="https://matthewmetsoja.com">www.matthewmetsoja.com</a>
+                            <p class="work pt-4">Please note that this is not my 'Real' portfolio which is available to view at <a href="https://matthewmetsoja.com">www.matthewmetsoja.com</a>
                             </p>
                     </div>
                     <div class="col-sm-2"></div>
