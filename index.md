@@ -7,6 +7,7 @@
     <meta name="description" content="Matthew Metsoja github profile, Matthew Metsoja on github and this is my front page mainly so that
     people may download the source code from my portfolio projects @ matthewmetsoja.com.">
     <meta name="author" content="Matthew Metsoja">
+    <meta name="google-site-verification" content="xib7iECvErb-rlPlWHbtSyZ4MwluwgJV-KPpbRpgwMo" />
 
 <!-- font-family: 'Source Code Pro', monospace; -->
 
