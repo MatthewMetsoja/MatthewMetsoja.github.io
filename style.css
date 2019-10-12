@@ -19,23 +19,81 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .intro{
-    border-bottom: 10px solid #ffbf00;
-    color: white;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    color: black;
+    background: #ffffff;
    
+}
+
+.project_container_fluid{
+    border-top: 10px solid #ffbf00;
+    border-bottom: 10px solid #ffbf00;
 }
 
 .jumbotron-fluid{
     background-color: black;
     color: #ffbf00;
     border-top: 10px solid #ffbf00;
-    border-bottom: 10px solid #ffbf00
+    border-bottom: 10px solid #ffbf00;
+}
+
+
+
+.img-fluid{
+    border: 3px solid #ffffff;
+}
+
+.git_text{
+    color: #ffffff;
+    
+}
+.git_text:hover{
+    color: #ffbf00;
+}
+
+.outro_row{
+    background-color: #ffffff;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    color: #000000;
+}
+.work a{
+    color: #bd8f06;
+    text-decoration:underline;
+}
+.work a:hover{
+    color:  #ffbf00;
+    text-decoration: none;
 }
 
 footer{
-    position: relative;
+   
     background-color: black;
-    color: white;
+    color: #ffffff;
     border-top: 10px solid #ffbf00;
     border-bottom: 10px solid #ffbf00;
-    bottom:  -30vh
+   
+}
+.inner_footer_div{
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    height: auto;
+    padding-top: 10px;
+  
+ 
+}
+
+#github_icon, #youtube_icon{
+    margin-right: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border: 2px solid #ffffff;
+}
+
+.footer_icon{
+    margin-right: 10px;
+    height: 60px;
+    width: 60px;
 }
