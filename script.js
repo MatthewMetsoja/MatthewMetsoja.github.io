@@ -1,4 +1,4 @@
- window.location.replace("https://github.com/MatthewMetsoja");
+//  window.location.replace("https://github.com/MatthewMetsoja");
 
 let cmsFrontPic = document.querySelector('#cms_front_cover');
 
